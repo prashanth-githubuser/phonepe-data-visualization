@@ -62,3 +62,13 @@ data
                     |___ andhra-pradesh
                     |    ...
                     |    ...
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Data Collection -----------> cleaning------------> Exported to Data base (for dynamic data)
+                                                           |
+                                                           |
+                                                       application (streamlit)
+
+
