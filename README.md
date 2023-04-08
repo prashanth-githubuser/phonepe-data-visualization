@@ -6,8 +6,9 @@ The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
 
-["Dashboard"](![Screenshot (25)](https://user-images.githubusercontent.com/120344718/230704051-46daf4c2-fc94-4d23-af4e-e3a004d670b0.png)
-)
+["Dashboard"]
+![Screenshot (25)](https://user-images.githubusercontent.com/120344718/230704051-46daf4c2-fc94-4d23-af4e-e3a004d670b0.png)
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 Approcah:
